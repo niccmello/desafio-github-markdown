@@ -1,5 +1,6 @@
-# ___Desafio github markdown___
-## **welcome :)**
+# **enjoy 🎬**
+
+
 
 ###  <h1  align="center"> listing some yasuo combos </h1> 
 -----------------   
@@ -22,5 +23,5 @@
 *E'QF w/0 cast*
 
 <a href="https://media1.tenor.com/m/DBarjI7waIQAAAAd/hidezera-yasuo-combo.gif">
-  <img src="https://media1.tenor.com/m/DBarjI7waIQAAAAd/hidezera-yasuo-combo.gif" width="300">
+  <img src="https://media1.tenor.com/m/DBarjI7waIQAAAAd/hidezera-yasuo-combo.gif" width="600">
 </a>
