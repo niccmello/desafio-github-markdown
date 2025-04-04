@@ -5,6 +5,11 @@
 -----------------   
 
 ###  <h1  align="center"> Insta airblade </h1> 
-*EQR 0 cast*
+*EQF*
+![beyblade](https://pa1.aminoapps.com/6801/8362c465e608b2eeccbacac856aa19d4a7e84eff_hq.gif)
 
-![gif aleatorio](https://pa1.aminoapps.com/6801/8362c465e608b2eeccbacac856aa19d4a7e84eff_hq.gif)
+-----------
+
+###  <h1  align="center"> Insta airblade </h1> 
+
+![texto](https://media1.tenor.com/m/RgV82XAo0UEAAAAd/keyblade-airblade.gif)
