@@ -12,4 +12,4 @@
 
 ###  <h1  align="center"> Keyblade </h1> 
 *EQF - EQR*
-![keyblade]](https://media1.tenor.com/m/RgV82XAo0UEAAAAd/keyblade-airblade.gif)
+![keyblade](https://media1.tenor.com/m/RgV82XAo0UEAAAAd/keyblade-airblade.gif)
