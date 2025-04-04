@@ -22,6 +22,5 @@
 *E'QF w/0 cast*
 
 <a href="https://media1.tenor.com/m/E-Q8nXTisioAAAAd/yasuo-hidezera.gif">
-  <img src="https://media1.tenor.com/m/E-Q8nXTisioAAAAd/yasuo-hidezera.gif" width="600">
+  <img src="https://media1.tenor.com/m/E-Q8nXTisioAAAAd/yasuo-hidezera.gif" width="300">
 </a>
-
