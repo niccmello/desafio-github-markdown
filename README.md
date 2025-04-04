@@ -8,3 +8,4 @@
 *EQR 0 cast*
 
 ![gif aleatorio](https://tenor.com/pt-BR/view/rydz-hidezera-yasuo-combo-airblade-gif-22295824)
+![gif de brinde ](https://media.tenor.com/bJ1zMWkMeUEAAAAM/thank-you-thank-you-sir.gif)
