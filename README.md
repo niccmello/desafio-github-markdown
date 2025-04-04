@@ -13,3 +13,5 @@
 *EQF - EQR*
 
 ![keyblade](https://media1.tenor.com/m/RgV82XAo0UEAAAAd/keyblade-airblade.gif)
+
+![teste](https://media1.tenor.com/m/HXSGJgbzLzUAAAAd/yasuo-yasuo-combo.gif)
