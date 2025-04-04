@@ -7,5 +7,5 @@
 ###  <h1  align="center"> Insta airblade </h1> 
 *EQR 0 cast*
 
-![gif aleatorio](https://tenor.com/pt-BR/view/rydz-hidezera-yasuo-combo-airblade-gif-22295824)
+![gif aleatorio](https://media1.tenor.com/m/b3OoabrJMtUAAAAd/rydz-hidezera.gif)
 ![gif de brinde ](https://media.tenor.com/bJ1zMWkMeUEAAAAM/thank-you-thank-you-sir.gif)
